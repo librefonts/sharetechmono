@@ -1,0 +1,42 @@
+{
+  "name": "Share Tech Mono",
+  "designer": "Ralph du Carrois",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Monospace",
+  "size": 12544,
+  "fonts": [
+    {
+      "name": "Share-TechMono",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-TechMonoExp-Regular.ttf",
+      "postScriptName": "Share-TechMonoExp",
+      "fullName": "Share-TechMonoExp",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    },
+    {
+      "name": "Share-TechMono",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ShareTechMono-Regular.ttf",
+      "postScriptName": "ShareTechMono-Regular",
+      "fullName": "Share Tech Mono",
+      "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'"
+    },
+    {
+      "name": "Share-TechMono",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Share-TechMono-Regular.ttf",
+      "postScriptName": "Share-TechMono",
+      "fullName": "Share-TechMono",
+      "copyright": "Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-31"
+}

@@ -1,0 +1,214 @@
+Fonts
+  All fonts do NOT have the same character sets.
+  Font:
+    Common name: Share-TechMono
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved.
+    License: Copyright (c) 2010 by Carrois Type Design, Ralph du Carrois (http://www.carrois.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.38
+    Vendor: This Font is designed by Ralph Oliver du Carrois,
+    Glyph count: 256
+    Character count: 253
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: Share Tech Mono
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002
+    Vendor: Ralph Oliver du Carrois
+    Vendor url: http://www.carrois.com
+    Designer: Ralph Oliver du Carrois
+    Designer url: http://www.carrois.com
+    Glyph count: 257
+    Character count: 255
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: Share-TechMonoExp
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved.
+    License: Copyright (c) 2010 by Carrois Type Design, Ralph du Carrois (http://www.carrois.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.38
+    Vendor: This Font is designed by Ralph Oliver du Carrois
+    Designer: Ralph du Carrois
+    Designer url: www.seite4.com
+    Glyph count: 253
+    Character count: 250
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: Share Tech Mono
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.002
+    Vendor: Ralph Oliver du Carrois
+    Vendor url: http://www.carrois.com
+    Designer: Ralph Oliver du Carrois
+    Designer url: http://www.carrois.com
+    Glyph count: 256
+    Character count: 255
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+  Font:
+    Common name: Share-TechMonoExp
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) This Font is designed by Ralph Oliver du Carrois, 2005. All rights reserved.
+    License: Copyright (c) 2010 by Carrois Type Design, Ralph du Carrois (http://www.carrois.com),
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000;PS 001.000;hotconv 1.0.38
+    Vendor: This Font is designed by Ralph Oliver du Carrois
+    Designer: Ralph du Carrois
+    Designer url: www.seite4.com
+    Glyph count: 253
+    Character count: 252
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
